@@ -107,5 +107,5 @@ venv.bak/
 
 .idea/
 
-/etc/update_pfsense_alias/
-!/etc/update_pfsense_alias/update_pfsense_alias.ini
+etc/update_pfsense_alias/*
+!etc/update_pfsense_alias/update_pfsense_alias.ini
