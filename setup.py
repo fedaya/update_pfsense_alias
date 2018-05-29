@@ -32,7 +32,7 @@ setup(
     license='GPL v3.0',
     author='Etienne Gille',
     author_email='etienne.gille@ville-acigne.fr',
-    description='Dynamically gets somes IP address(es) from addresses to update an alias in pfsense using FauxAPI',
+    description='Dynamically gets some IP address(es) from addresses to update an alias in pfsense using FauxAPI',
     install_requires=['dnspython', 'Requests'],
     setup_requires=['dnspython', 'Requests'],
     entry_points={
